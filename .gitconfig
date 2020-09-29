@@ -1,0 +1,5 @@
+[user]
+	name = Syed Farhan Yezdan
+	email = farhanyezdan1992@gmail.com
+[credential]
+	helper = *cache
