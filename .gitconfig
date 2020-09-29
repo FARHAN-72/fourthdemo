@@ -3,3 +3,4 @@
 	email = farhanyezdan1992@gmail.com
 [credential]
 	helper = *cache
+	helper = *cache
